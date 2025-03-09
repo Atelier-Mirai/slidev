@@ -18,7 +18,7 @@ Page 2 from main entry.
 
 #### `subpage.md`
 
-```markdown
+```md
 # Page 2
 
 Page 2 from another file.
